@@ -6,38 +6,26 @@
 
 using System;
 
-namespace HooksLib
-{
-    public enum KeyState
-    {
-        Unknown,
-        Up,
-        Down
-    }
+namespace Hooks;
 
-    public class HookKeyEventArgs : EventArgs 
+public enum KeyState
+{
+    Unknown,
+    Up,
+    Down
+}
+
+public class HookKeyEventArgs : EventArgs 
+{
+    public HookKeyEventArgs(Key keyData, KeyState state) 
     {
-        
-        private bool _suppressKeyPress;
- 
-        public HookKeyEventArgs(Key keyData, KeyState state) 
-        {
             KeyData = keyData;
             KeyState = state;
         }
 
-        public KeyState KeyState { get; protected set; }
+    public KeyState KeyState { get; protected set; }
 
-        public bool Handled { get; set; }
+    public bool Handled { get; set; }
 
-        public Key KeyData { get; }
-       
-        public bool SuppressKeyPress {
-            get => _suppressKeyPress;
-            set {
-                _suppressKeyPress = value;
-                Handled = value;
-            }
-        }
-    }
+    public Key KeyData { get; }
 }
