@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.8.34330.188
+VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hooks", "Hooks.csproj", "{51209F23-C574-4691-9BFE-E31214C2D8F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KMHooks", "KMHooks.csproj", "{9DE2F9B0-F555-4504-92F8-4FC494B51BF5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,23 +15,23 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{51209F23-C574-4691-9BFE-E31214C2D8F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{51209F23-C574-4691-9BFE-E31214C2D8F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{51209F23-C574-4691-9BFE-E31214C2D8F8}.Debug|x64.ActiveCfg = Debug|x64
-		{51209F23-C574-4691-9BFE-E31214C2D8F8}.Debug|x64.Build.0 = Debug|x64
-		{51209F23-C574-4691-9BFE-E31214C2D8F8}.Debug|x86.ActiveCfg = Debug|x86
-		{51209F23-C574-4691-9BFE-E31214C2D8F8}.Debug|x86.Build.0 = Debug|x86
-		{51209F23-C574-4691-9BFE-E31214C2D8F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{51209F23-C574-4691-9BFE-E31214C2D8F8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{51209F23-C574-4691-9BFE-E31214C2D8F8}.Release|x64.ActiveCfg = Release|x64
-		{51209F23-C574-4691-9BFE-E31214C2D8F8}.Release|x64.Build.0 = Release|x64
-		{51209F23-C574-4691-9BFE-E31214C2D8F8}.Release|x86.ActiveCfg = Release|x86
-		{51209F23-C574-4691-9BFE-E31214C2D8F8}.Release|x86.Build.0 = Release|x86
+		{9DE2F9B0-F555-4504-92F8-4FC494B51BF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE2F9B0-F555-4504-92F8-4FC494B51BF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE2F9B0-F555-4504-92F8-4FC494B51BF5}.Debug|x64.ActiveCfg = Debug|x64
+		{9DE2F9B0-F555-4504-92F8-4FC494B51BF5}.Debug|x64.Build.0 = Debug|x64
+		{9DE2F9B0-F555-4504-92F8-4FC494B51BF5}.Debug|x86.ActiveCfg = Debug|x86
+		{9DE2F9B0-F555-4504-92F8-4FC494B51BF5}.Debug|x86.Build.0 = Debug|x86
+		{9DE2F9B0-F555-4504-92F8-4FC494B51BF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE2F9B0-F555-4504-92F8-4FC494B51BF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DE2F9B0-F555-4504-92F8-4FC494B51BF5}.Release|x64.ActiveCfg = Release|x64
+		{9DE2F9B0-F555-4504-92F8-4FC494B51BF5}.Release|x64.Build.0 = Release|x64
+		{9DE2F9B0-F555-4504-92F8-4FC494B51BF5}.Release|x86.ActiveCfg = Release|x86
+		{9DE2F9B0-F555-4504-92F8-4FC494B51BF5}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {EF52C5FC-623D-45DC-97C0-6FC7E11C3C2B}
+		SolutionGuid = {7DE390B8-0986-4915-A97D-F55B8EB2C552}
 	EndGlobalSection
 EndGlobal
