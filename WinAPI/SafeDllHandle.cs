@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.Runtime.InteropServices;
 
-namespace Hooks.WinAPI;
+namespace KMHooks.WinAPI;
 
 [DebuggerDisplay("{handle}")]
 public class SafeDllHandle : SafeHandle

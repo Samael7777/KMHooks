@@ -5,7 +5,7 @@
 using System;
 using System.Runtime.InteropServices;
 
-namespace Hooks.WinAPI;
+namespace KMHooks.WinAPI;
 
 // KBDLLHOOKSTRUCT
 // https://msdn.microsoft.com/ru-ru/library/windows/desktop/ms644967(v=vs.85).aspx

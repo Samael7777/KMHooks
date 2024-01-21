@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Hooks.KeyCombinations;
+namespace KMHooks.KeyCombinations;
 
 public class KeyCombinationFilter
 {

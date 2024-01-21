@@ -5,7 +5,7 @@
 using System;
 using System.Runtime.InteropServices;
 
-namespace Hooks.WinAPI;
+namespace KMHooks.WinAPI;
 
 // MSLLHOOKSTRUCT
 // https://msdn.microsoft.com/ru-ru/library/windows/desktop/ms644970(v=vs.85).aspx

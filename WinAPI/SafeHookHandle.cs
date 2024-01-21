@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.Runtime.InteropServices;
 
-namespace Hooks.WinAPI;
+namespace KMHooks.WinAPI;
 
 [DebuggerDisplay("{handle.ToInt64()}")]
 public class SafeHookHandle : SafeHandle

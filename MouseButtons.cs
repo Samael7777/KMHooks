@@ -6,7 +6,7 @@
 
 using System;
 
-namespace Hooks;
+namespace KMHooks;
 
 [Flags]
 public enum MouseButtons

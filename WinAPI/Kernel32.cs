@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace Hooks.WinAPI;
+namespace KMHooks.WinAPI;
 
 internal static class Kernel32
 {

@@ -12,7 +12,7 @@ using System;
 // ReSharper disable InconsistentNaming
 // ReSharper disable UnusedMember.Global
 
-namespace Hooks;
+namespace KMHooks;
 
 [Flags]
 public enum Key 

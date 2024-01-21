@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Collections.Immutable;
 using System.Linq;
 
-namespace Hooks.KeyCombinations;
+namespace KMHooks.KeyCombinations;
 
 public class KeyCombinationFiltersContainer
 {

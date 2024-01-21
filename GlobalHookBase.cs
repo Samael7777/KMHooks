@@ -1,7 +1,7 @@
 ﻿using System.Runtime.InteropServices;
-using Hooks.WinAPI;
+using KMHooks.WinAPI;
 
-namespace Hooks;
+namespace KMHooks;
 
 public abstract class GlobalHookBase
 {

@@ -1,7 +1,8 @@
-﻿using Hooks.WinAPI;
+﻿using KMHooks.WinAPI;
+
 // ReSharper disable IdentifierTypo
 
-namespace Hooks;
+namespace KMHooks;
 
 public static class VirtualKeyConverter
 {

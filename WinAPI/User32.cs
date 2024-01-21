@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 // ReSharper disable InconsistentNaming
 // ReSharper disable CommentTypo
 
-namespace Hooks.WinAPI;
+namespace KMHooks.WinAPI;
 
 public delegate int HookProc(int code, IntPtr wParam, IntPtr lParam);
 

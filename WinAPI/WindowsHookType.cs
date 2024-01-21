@@ -2,7 +2,7 @@
 // ReSharper disable InconsistentNaming
 // ReSharper disable CommentTypo
 
-namespace Hooks.WinAPI;
+namespace KMHooks.WinAPI;
 
 public enum WindowsHookType 
 {

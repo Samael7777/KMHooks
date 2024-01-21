@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using Hooks.Extensions;
+using KMHooks.Extensions;
 
-namespace Hooks.KeyCombinations;
+namespace KMHooks.KeyCombinations;
 
 public class KeyCombination : IEquatable<KeyCombination>
 {

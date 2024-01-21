@@ -6,9 +6,9 @@
 
 using System;
 using System.Drawing;
-using Hooks.WinAPI;
+using KMHooks.WinAPI;
 
-namespace Hooks;
+namespace KMHooks;
 
 public class HookMouseEventArgs : EventArgs {
     /// <devdoc>

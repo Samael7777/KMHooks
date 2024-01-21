@@ -6,7 +6,7 @@
 
 using System;
 
-namespace Hooks;
+namespace KMHooks;
 
 public enum KeyState
 {

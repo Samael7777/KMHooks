@@ -2,7 +2,7 @@
 
 // ReSharper disable SwitchStatementHandlesSomeKnownEnumValuesWithDefault
 
-namespace Hooks.Extensions;
+namespace KMHooks.Extensions;
 
 public static class KeyExtensions
 {

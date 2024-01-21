@@ -1,4 +1,4 @@
-﻿namespace Hooks.WinAPI;
+﻿namespace KMHooks.WinAPI;
 
 internal enum WindowsMessage 
 {
